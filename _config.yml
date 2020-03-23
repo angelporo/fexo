@@ -1,6 +1,6 @@
 # Blog info
-blog_name: Forsigner
-slogan: Find the bug of the world
+blog_name: 会上树的🐷
+slogan: 千万别活成自己讨厌得样子
 url: http://www.forsigner.com
 
 # Set avatar (Absolute url and relative url)
@@ -16,15 +16,15 @@ home_nav:
   - name: Blog
     url: /archives
     target_blank: false #不在新页面打开
-  - name: Project
-    url: /project/
-    target_blank: true #在新页面打开
+  # - name: Project
+  #   url: /project/
+  #   target_blank: true #在新页面打开
   - name: Github
-    url: https://github.com/forsigner
+    url: https://github.com/angelporo
     target_blank: true
-  - name: Twitter
-    url: https://twitter.com/forsigner
-    target_blank: true
+  # - name: Twitter
+  #   url: https://twitter.com/forsigner
+  #   target_blank: true
 
 # config page nav
 page_nav:
@@ -81,7 +81,7 @@ backtop:
   about: false
 
 donation:
-  show: true
+  show: false
   btn_text: 支持一下
   tip: 扫一扫，支持forsigner
   items:
